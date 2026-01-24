@@ -1,5 +1,12 @@
 *.parquet
 
+
+# Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+**/.ipynb
+.ipython/
+.jupyter/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
