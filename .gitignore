@@ -1,6 +1,8 @@
-# vscode
+# vscode settings
 .vscode/
 
+# ny_taxi_postgres_data Docker + Postgres volume
+ny_taxi_postgres_data/
 # parquet files
 *.parquet
 
