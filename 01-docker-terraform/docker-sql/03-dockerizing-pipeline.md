@@ -1,4 +1,4 @@
-# Dockerizing the Pipeline:
+# Dockerizing the Pipeline
 
 Now let's containerize the script. Create the following `Dockerfile` file:
 
